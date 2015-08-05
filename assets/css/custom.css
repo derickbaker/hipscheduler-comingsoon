@@ -1,0 +1,13 @@
+.brand {
+	width: 250px;
+    margin: 0 auto 50px;
+}
+.logo-text {
+	font-family: 'nerislight_italic', 'Open Sans', Arial, sans-serif;
+    font-style: italic;
+    font-weight: 300;
+}
+.logo-text strong {
+    font-family: 'nerisblack_italic', 'Open Sans', Arial, sans-serif;
+    font-weight: 900;
+}
